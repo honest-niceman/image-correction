@@ -1,0 +1,60 @@
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csprojResolveAssemblyReference.cache
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\obj\Debug\Лаб_4.Form1.resources
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csproj.GenerateResource.Cache
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csproj.CoreCompileInputs.cache
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Румия\Desktop\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csprojResolveAssemblyReference.cache
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\obj\Debug\Лаб_4.Form1.resources
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csproj.GenerateResource.Cache
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csproj.CoreCompileInputs.cache
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Румия\Desktop\2 Курс ивт)\Программирование\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+D:\учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+D:\учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csprojResolveAssemblyReference.cache
+D:\учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\Лаб_4.Form1.resources
+D:\учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\User\Desktop\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\User\Desktop\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\User\Desktop\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\User\Desktop\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\User\Desktop\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\Лаб_4.Form1.resources
+C:\Users\User\Desktop\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\User\Desktop\Комп. графика\Программирование2\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csproj.GenerateResource.Cache
+K:\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+K:\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+K:\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Александр\Desktop\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Александр\Desktop\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Александр\Desktop\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Александр\Desktop\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Александр\Desktop\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Александр\Desktop\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Laba4\WindowsFormsApp6\obj\Debug\Лаб_4.Form1.resources
+C:\Users\Александр\Desktop\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Александр\Desktop\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csproj.GenerateResource.Cache
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csprojAssemblyReference.cache
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\obj\Debug\Лаб_4.Form1.resources
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csproj.GenerateResource.cache
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\obj\Debug\лаба4.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Георгий\Desktop\Laba4\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
